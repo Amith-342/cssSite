@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(160, 241, 160);
+}
+
+.top{
+    background-color: #00aa00;
+    position: absolute;
+    top: 10.125rem;
+    left: 21rem;
+    width: 43.875rem;
+    height: 10.25rem;
+    border-radius: 8px;
+}
+hr{
+    
+    border:0.5px solid grey ;
+}
+.contactin{
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 20px;
+    color: #202124;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    line-height: 135%;
+    width: 100%;
+}
+img{
+    width: 43.875rem;
+    height: 10.25rem;
+    border-radius: 8px;
+}
+.contactinform{
+    background-color: white;
+    width: 43.8rem;
+    height: 8.4rem;
+    border-radius: 8px;
+    border: 1px solid beige;
+    /* border-left: 4px; */
+    
+    position: relative;
+    top: 345px;
+    left: 20.5rem;
+    /* bottom: 10px; */
+    margin-bottom: 20px;
+}
+#cinform,#name{
+    border-left: 4px solid #2a6dff;
+    border-top: 6px solid #04c42e;
+    
+}
